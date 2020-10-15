@@ -1,0 +1,88 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    height: 100vh;
+    background-image: url("image/notebackground.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+}
+
+
+.search {
+    padding-top: 90px;
+    padding-left: 1070px;
+}
+
+.new-delete {
+    padding-top: 25px;
+    padding-left: 680px;
+    padding-bottom: 10px;
+}
+
+#date {
+    padding-left: 307px;
+}
+
+.search-img {
+    width: 20px;
+    padding-top: 2px;
+}
+
+.new-tabs {
+ margin: auto;
+}
+
+.text-area {
+    margin: 0px 0px 0px -210px; width: 450px; height: 640px;
+    background-color: rgb(202, 200, 200);
+    resize: none;
+    /* display: none; */
+}
+
+
+.new-empty-tabs {
+    display: grid;
+    grid-template-columns: 30% 70%;
+    padding-left: 660px;
+}
+
+
+.ul-list {
+    padding-top: 20px;
+    list-style-type: none;
+}
+
+
+.save-btn {
+    margin-left: 430px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* li {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 200px;
+} */
